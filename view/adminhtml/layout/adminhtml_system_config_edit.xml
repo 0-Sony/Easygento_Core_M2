@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @license MIT. Please see the LICENSE file for more info.
+ * @author Phuong LE <sony@menincode.com>
+ * @copyright Copyright (c) 2019 Men In Code Ltd (http://www.menincode.com)
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-2columns-left" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="Easygento_Core::css/style.css"/>
+    </head>
+    <body/>
+</page>
